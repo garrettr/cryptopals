@@ -1,6 +1,8 @@
 extern crate core;
 use core::iter::range_step;
 
+// http://cryptopals.com/sets/1/challenges/1/
+
 // To compile and test this code:
 //
 //   $ rustc --test 1-1-base64.rs
